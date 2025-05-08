@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/ED/Proyecto/MainProgram/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/InventoryManager.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\InventoryManager.dir\\src\\AVL.cpp.obj -c D:\\ED\\Proyecto\\MainProgram\\src\\AVL.cpp",
+  "file": "D:/ED/Proyecto/MainProgram/src/AVL.cpp",
+  "output": "CMakeFiles/InventoryManager.dir/src/AVL.cpp.obj"
+},
+{
+  "directory": "D:/ED/Proyecto/MainProgram/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/InventoryManager.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\InventoryManager.dir\\src\\Inventario.cpp.obj -c D:\\ED\\Proyecto\\MainProgram\\src\\Inventario.cpp",
+  "file": "D:/ED/Proyecto/MainProgram/src/Inventario.cpp",
+  "output": "CMakeFiles/InventoryManager.dir/src/Inventario.cpp.obj"
+},
+{
+  "directory": "D:/ED/Proyecto/MainProgram/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/InventoryManager.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\InventoryManager.dir\\src\\Pedido.cpp.obj -c D:\\ED\\Proyecto\\MainProgram\\src\\Pedido.cpp",
+  "file": "D:/ED/Proyecto/MainProgram/src/Pedido.cpp",
+  "output": "CMakeFiles/InventoryManager.dir/src/Pedido.cpp.obj"
+},
+{
+  "directory": "D:/ED/Proyecto/MainProgram/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/InventoryManager.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\InventoryManager.dir\\src\\Producto.cpp.obj -c D:\\ED\\Proyecto\\MainProgram\\src\\Producto.cpp",
+  "file": "D:/ED/Proyecto/MainProgram/src/Producto.cpp",
+  "output": "CMakeFiles/InventoryManager.dir/src/Producto.cpp.obj"
+},
+{
+  "directory": "D:/ED/Proyecto/MainProgram/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/InventoryManager.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\InventoryManager.dir\\src\\Serializador.cpp.obj -c D:\\ED\\Proyecto\\MainProgram\\src\\Serializador.cpp",
+  "file": "D:/ED/Proyecto/MainProgram/src/Serializador.cpp",
+  "output": "CMakeFiles/InventoryManager.dir/src/Serializador.cpp.obj"
+},
+{
+  "directory": "D:/ED/Proyecto/MainProgram/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/InventoryManager.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\InventoryManager.dir\\src\\main.cpp.obj -c D:\\ED\\Proyecto\\MainProgram\\src\\main.cpp",
+  "file": "D:/ED/Proyecto/MainProgram/src/main.cpp",
+  "output": "CMakeFiles/InventoryManager.dir/src/main.cpp.obj"
+}
+]

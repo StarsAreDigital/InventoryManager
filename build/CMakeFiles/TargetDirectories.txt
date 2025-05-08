@@ -1,0 +1,3 @@
+D:/ED/Proyecto/MainProgram/build/CMakeFiles/InventoryManager.dir
+D:/ED/Proyecto/MainProgram/build/CMakeFiles/edit_cache.dir
+D:/ED/Proyecto/MainProgram/build/CMakeFiles/rebuild_cache.dir

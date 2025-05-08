@@ -1,0 +1,35 @@
+cat 3
+A aaa
+3
+A1
+Producto de prueba A1
+20
+A2
+Producto de prueba A2
+25
+A3
+Producto de prueba A3
+30
+L lll
+1
+L1
+Producto de prueba L
+45
+V vvv
+2
+V1
+Producto de prueba V
+35
+V2
+Producto de prueba V
+40
+inv 2
+prod 3
+L1 2
+A2 1
+A1 5
+prod 4
+V2 6
+V1 7
+A3 3
+A1 4
